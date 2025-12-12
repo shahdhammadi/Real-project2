@@ -1,0 +1,33 @@
+# /config/settings.txt
+# ===== إعدادات الخريطة =====
+MAP_WIDTH = 10
+MAP_HEIGHT = 10
+MAP_DEPTH = 5
+OBSTACLE_RATIO = 0.25
+SURVIVOR_RATIO = 0.15
+
+# ===== إعدادات الروبوتات =====
+NUM_ROBOTS = 3
+ROBOT_START_X = 0
+ROBOT_START_Y = 0
+ROBOT_START_Z = 0
+
+# ===== إعدادات الخوارزمية الجينية =====
+POPULATION_SIZE = 50
+GENERATIONS = 100
+TOURNAMENT_SIZE = 5
+CROSSOVER_RATE = 0.8
+MUTATION_RATE = 0.1
+ELITISM_RATE = 0.1
+
+# ===== إعدادات دالة اللياقة =====
+W_SURVIVORS = 0.4
+W_COVERAGE = 0.3
+W_LENGTH = 0.2
+W_RISK = 0.1
+
+# ===== إعدادات النظام =====
+NUM_WORKERS = 4
+MAX_PATH_LENGTH = 50
+LOG_LEVEL = 1
+OUTPUT_FILE = results.txt
