@@ -1,0 +1,53 @@
+10 Initial Chromosomes
+=======================
+
+Chromosome 01 (ID: 1000):
+  Start Position: (0,0,0)
+  Directions: RIGHT UP WAIT BACKWARD FORWARD UP RIGHT UP UP BACKWARD 
+                
+
+Chromosome 02 (ID: 1001):
+  Start Position: (0,0,0)
+  Directions: LEFT BACKWARD BACKWARD DOWN UP UP WAIT UP LEFT FORWARD 
+                
+
+Chromosome 03 (ID: 1002):
+  Start Position: (0,0,0)
+  Directions: UP LEFT BACKWARD RIGHT UP LEFT LEFT BACKWARD BACKWARD UP 
+                
+
+Chromosome 04 (ID: 1003):
+  Start Position: (0,0,0)
+  Directions: UP RIGHT DOWN FORWARD LEFT DOWN BACKWARD FORWARD UP FORWARD 
+                
+
+Chromosome 05 (ID: 1004):
+  Start Position: (0,0,0)
+  Directions: RIGHT RIGHT DOWN DOWN FORWARD DOWN UP WAIT FORWARD FORWARD 
+                
+
+Chromosome 06 (ID: 1005):
+  Start Position: (0,0,0)
+  Directions: UP UP LEFT LEFT DOWN FORWARD FORWARD BACKWARD DOWN RIGHT 
+                
+
+Chromosome 07 (ID: 1006):
+  Start Position: (0,0,0)
+  Directions: FORWARD UP DOWN RIGHT RIGHT RIGHT RIGHT FORWARD RIGHT LEFT 
+                
+
+Chromosome 08 (ID: 1007):
+  Start Position: (0,0,0)
+  Directions: LEFT UP RIGHT BACKWARD FORWARD BACKWARD UP WAIT WAIT DOWN 
+                
+
+Chromosome 09 (ID: 1008):
+  Start Position: (0,0,0)
+  Directions: BACKWARD UP UP DOWN RIGHT WAIT FORWARD RIGHT DOWN LEFT 
+                
+
+Chromosome 10 (ID: 1009):
+  Start Position: (0,0,0)
+  Directions: WAIT WAIT LEFT FORWARD RIGHT BACKWARD FORWARD WAIT LEFT WAIT 
+                
+
